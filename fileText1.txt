@@ -1,0 +1,6 @@
+Programming: Fondasi Digital Dunia Modern
+Pengertian Programming
+
+Programming, atau pemrograman komputer, adalah proses menulis, menguji, memperbaiki, dan memelihara kode yang ditulis dalam bahasa pemrograman agar komputer dapat menjalankan tugas tertentu. Pemrograman merupakan jembatan antara manusia dan mesin. Dengan menulis instruksi dalam bentuk kode, kita memberitahu komputer apa yang harus dilakukan dan bagaimana melakukannya.
+
+Setiap aplikasi yang kita gunakan sehari-hari — mulai dari media sosial, aplikasi perbankan, gim, hingga sistem navigasi — semuanya dibangun menggunakan program yang kompleks. Tanpa pemrograman, perangkat keras (hardware) komputer hanyalah benda mati tanpa fungsi.
